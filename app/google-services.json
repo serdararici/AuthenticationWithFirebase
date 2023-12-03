@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "455421283133",
+    "firebase_url": "https://sanslibeacon-57c83-default-rtdb.firebaseio.com",
+    "project_id": "sanslibeacon-57c83",
+    "storage_bucket": "sanslibeacon-57c83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455421283133:android:16990e500e281cf5af1354",
+        "android_client_info": {
+          "package_name": "com.serdararici.signinwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455421283133-kustt8698go668inr4m3pe0jgeccrtum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnYBYnzCuieAjOvCaCA9vRBiRXuT9lVMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455421283133-kustt8698go668inr4m3pe0jgeccrtum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
